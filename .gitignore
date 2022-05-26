@@ -1,0 +1,8 @@
+.ipynb_checkpoints
+*.mat
+*.xlsx
+*.zip
+*.RData
+*.DS_Store
+*.Rhistory
+*.csv
