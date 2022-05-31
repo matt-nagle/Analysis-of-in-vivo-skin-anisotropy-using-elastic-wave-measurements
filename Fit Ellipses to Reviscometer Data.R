@@ -4,7 +4,7 @@ library(ggplot2)
 
 ## Import Averaged Datasets from the Reviscometer
 
-setwd("C:/Users/mattn/OneDrive - University College Dublin/Documents/00. Research/99. Publications/Analysis of in-vivo skin properties using elastic wave measurements")
+setwd("C:/Users/mattn/OneDrive - University College Dublin/Documents/00. Research/99. Publications/Analysis of in-vivo skin anisotropy using elastic wave measurements")
 revis_data_orig_units <- read.csv("Reviscometer Avg Data - RRT Units.csv", header = TRUE)
 revis_data_stretch_orig_units <- read.csv("Reviscometer Avg Data - Stretched - RRT Units.csv", header = TRUE)
 

@@ -7,7 +7,7 @@ library(egg)
 
 #####====================== Import Datasets ======================#####
 
-setwd("C:/Users/mattn/OneDrive - University College Dublin/Documents/00. Research/99. Publications/Analysis of in-vivo skin properties using elastic wave measurements")
+setwd("C:/Users/mattn/OneDrive - University College Dublin/Documents/00. Research/99. Publications/Analysis of in-vivo skin anisotropy using elastic wave measurements")
 
 
 all_fit_ellipse_params <- read.csv("Ellipse Params - Natural and Stretched Config.csv", header = TRUE)
